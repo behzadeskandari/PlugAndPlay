@@ -1,0 +1,15 @@
+D:\BehzadRepo\PlugAndPlay\src\Framework.PluginLoader\obj\Debug\net9.0\Framework.PluginLoader.csproj.AssemblyReference.cache
+D:\BehzadRepo\PlugAndPlay\src\Framework.PluginLoader\obj\Debug\net9.0\Framework.PluginLoader.GeneratedMSBuildEditorConfig.editorconfig
+D:\BehzadRepo\PlugAndPlay\src\Framework.PluginLoader\obj\Debug\net9.0\Framework.PluginLoader.AssemblyInfoInputs.cache
+D:\BehzadRepo\PlugAndPlay\src\Framework.PluginLoader\obj\Debug\net9.0\Framework.PluginLoader.AssemblyInfo.cs
+D:\BehzadRepo\PlugAndPlay\src\Framework.PluginLoader\obj\Debug\net9.0\Framework.PluginLoader.csproj.CoreCompileInputs.cache
+D:\BehzadRepo\PlugAndPlay\src\Framework.PluginLoader\bin\Debug\net9.0\Framework.PluginLoader.deps.json
+D:\BehzadRepo\PlugAndPlay\src\Framework.PluginLoader\bin\Debug\net9.0\Framework.PluginLoader.dll
+D:\BehzadRepo\PlugAndPlay\src\Framework.PluginLoader\bin\Debug\net9.0\Framework.PluginLoader.pdb
+D:\BehzadRepo\PlugAndPlay\src\Framework.PluginLoader\bin\Debug\net9.0\Framework.Abstractions.dll
+D:\BehzadRepo\PlugAndPlay\src\Framework.PluginLoader\bin\Debug\net9.0\Framework.Abstractions.pdb
+D:\BehzadRepo\PlugAndPlay\src\Framework.PluginLoader\obj\Debug\net9.0\Framewor.C8CA5E49.Up2Date
+D:\BehzadRepo\PlugAndPlay\src\Framework.PluginLoader\obj\Debug\net9.0\Framework.PluginLoader.dll
+D:\BehzadRepo\PlugAndPlay\src\Framework.PluginLoader\obj\Debug\net9.0\refint\Framework.PluginLoader.dll
+D:\BehzadRepo\PlugAndPlay\src\Framework.PluginLoader\obj\Debug\net9.0\Framework.PluginLoader.pdb
+D:\BehzadRepo\PlugAndPlay\src\Framework.PluginLoader\obj\Debug\net9.0\ref\Framework.PluginLoader.dll

@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Framework.Abstractions/1.0.0": {
+        "dependencies": {
+          "FluentResults": "3.12.0"
+        },
+        "runtime": {
+          "Framework.Abstractions.dll": {}
+        }
+      },
+      "FluentResults/3.12.0": {
+        "runtime": {
+          "lib/netstandard2.1/FluentResults.dll": {
+            "assemblyVersion": "3.12.0.0",
+            "fileVersion": "3.12.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Framework.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FluentResults/3.12.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qtm7zmJ9p30ZERFr35xwnSOlXSfn1rFdku2ECwWx+VfpiVFWrKJWWpKpI0zN/FC4JI7+/GdVLLKIjnW6hwgBvA==",
+      "path": "fluentresults/3.12.0",
+      "hashPath": "fluentresults.3.12.0.nupkg.sha512"
+    }
+  }
+}

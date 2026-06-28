@@ -1,0 +1,22 @@
+<Solution>
+  <Folder Name="/plugins/" />
+  <Folder Name="/plugins/Identity/">
+    <Project Path="plugins/Identity/Identity.Plugin.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/Framework.Abstractions/Framework.Abstractions.csproj" />
+    <Project Path="src/Framework.Application/Framework.Application.csproj" />
+    <Project Path="src/Framework.Core/Framework.Core.csproj" />
+    <Project Path="src/Framework.EventBus/Framework.EventBus.csproj" />
+    <Project Path="src/Framework.Infrastructure/Framework.Infrastructure.csproj" />
+    <Project Path="src/Framework.MultiTenancy/Framework.MultiTenancy.csproj" />
+    <Project Path="src/Framework.Persistence/Framework.Persistence.csproj" />
+    <Project Path="src/Framework.PluginLoader/Framework.PluginLoader.csproj" />
+    <Project Path="src/Framework.Security/Framework.Security.csproj" />
+    <Project Path="src/Framework.SharedKernel/Framework.SharedKernel.csproj" />
+    <Project Path="src/Host.Api/Host.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Plugin.Tests/Plugin.Tests.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,9 @@
+global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using FluentValidation;
+global using FluentResults;
+global using Mapster;
+global using MediatR;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;

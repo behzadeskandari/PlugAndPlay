@@ -1,0 +1,11 @@
+D:\BehzadRepo\PlugAndPlay\src\Framework.Security\bin\Debug\net9.0\Framework.Security.deps.json
+D:\BehzadRepo\PlugAndPlay\src\Framework.Security\bin\Debug\net9.0\Framework.Security.dll
+D:\BehzadRepo\PlugAndPlay\src\Framework.Security\bin\Debug\net9.0\Framework.Security.pdb
+D:\BehzadRepo\PlugAndPlay\src\Framework.Security\obj\Debug\net9.0\Framework.Security.GeneratedMSBuildEditorConfig.editorconfig
+D:\BehzadRepo\PlugAndPlay\src\Framework.Security\obj\Debug\net9.0\Framework.Security.AssemblyInfoInputs.cache
+D:\BehzadRepo\PlugAndPlay\src\Framework.Security\obj\Debug\net9.0\Framework.Security.AssemblyInfo.cs
+D:\BehzadRepo\PlugAndPlay\src\Framework.Security\obj\Debug\net9.0\Framework.Security.csproj.CoreCompileInputs.cache
+D:\BehzadRepo\PlugAndPlay\src\Framework.Security\obj\Debug\net9.0\Framework.Security.dll
+D:\BehzadRepo\PlugAndPlay\src\Framework.Security\obj\Debug\net9.0\refint\Framework.Security.dll
+D:\BehzadRepo\PlugAndPlay\src\Framework.Security\obj\Debug\net9.0\Framework.Security.pdb
+D:\BehzadRepo\PlugAndPlay\src\Framework.Security\obj\Debug\net9.0\ref\Framework.Security.dll

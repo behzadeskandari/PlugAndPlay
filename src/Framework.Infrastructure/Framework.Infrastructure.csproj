@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Framework.Abstractions\Framework.Abstractions.csproj" />
+    <ProjectReference Include="..\Framework.Core\Framework.Core.csproj" />
+    <ProjectReference Include="..\Framework.PluginLoader\Framework.PluginLoader.csproj" />
+    <ProjectReference Include="..\Framework.EventBus\Framework.EventBus.csproj" />
+    <ProjectReference Include="..\Framework.Persistence\Framework.Persistence.csproj" />
+    <ProjectReference Include="..\Framework.Security\Framework.Security.csproj" />
+    <ProjectReference Include="..\Framework.MultiTenancy\Framework.MultiTenancy.csproj" />
+    <ProjectReference Include="..\Framework.SharedKernel\Framework.SharedKernel.csproj" />
+    <ProjectReference Include="..\Framework.Application\Framework.Application.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="9.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authorization" Version="9.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Caching.Memory" Version="9.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Caching.StackExchangeRedis" Version="9.0.0" />
+    <PackageReference Include="OpenTelemetry.Extensions.Hosting" Version="1.15.0" />
+    <PackageReference Include="OpenTelemetry.Instrumentation.AspNetCore" Version="1.15.0" />
+    <PackageReference Include="OpenTelemetry.Instrumentation.SqlClient" Version="1.15.0" />
+    <PackageReference Include="Scrutor" Version="4.0.0" />
+    <PackageReference Include="Serilog.AspNetCore" Version="7.0.0" />
+    <PackageReference Include="Serilog.Enrichers.CorrelationId" Version="3.0.1" />
+    <PackageReference Include="Serilog.Sinks.Console" Version="4.1.0" />
+    <PackageReference Include="Serilog.Sinks.File" Version="6.0.0" />
+    <PackageReference Include="Serilog.Sinks.Seq" Version="5.2.0" />
+    <PackageReference Include="StackExchange.Redis" Version="3.0.0" />
+  </ItemGroup>
+
+</Project>

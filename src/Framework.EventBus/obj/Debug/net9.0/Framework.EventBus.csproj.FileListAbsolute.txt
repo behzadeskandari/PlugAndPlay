@@ -1,0 +1,11 @@
+D:\BehzadRepo\PlugAndPlay\src\Framework.EventBus\bin\Debug\net9.0\Framework.EventBus.deps.json
+D:\BehzadRepo\PlugAndPlay\src\Framework.EventBus\bin\Debug\net9.0\Framework.EventBus.dll
+D:\BehzadRepo\PlugAndPlay\src\Framework.EventBus\bin\Debug\net9.0\Framework.EventBus.pdb
+D:\BehzadRepo\PlugAndPlay\src\Framework.EventBus\obj\Debug\net9.0\Framework.EventBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\BehzadRepo\PlugAndPlay\src\Framework.EventBus\obj\Debug\net9.0\Framework.EventBus.AssemblyInfoInputs.cache
+D:\BehzadRepo\PlugAndPlay\src\Framework.EventBus\obj\Debug\net9.0\Framework.EventBus.AssemblyInfo.cs
+D:\BehzadRepo\PlugAndPlay\src\Framework.EventBus\obj\Debug\net9.0\Framework.EventBus.csproj.CoreCompileInputs.cache
+D:\BehzadRepo\PlugAndPlay\src\Framework.EventBus\obj\Debug\net9.0\Framework.EventBus.dll
+D:\BehzadRepo\PlugAndPlay\src\Framework.EventBus\obj\Debug\net9.0\refint\Framework.EventBus.dll
+D:\BehzadRepo\PlugAndPlay\src\Framework.EventBus\obj\Debug\net9.0\Framework.EventBus.pdb
+D:\BehzadRepo\PlugAndPlay\src\Framework.EventBus\obj\Debug\net9.0\ref\Framework.EventBus.dll

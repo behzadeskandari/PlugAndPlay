@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Framework.Abstractions\Framework.Abstractions.csproj" />
+    <ProjectReference Include="..\Framework.SharedKernel\Framework.SharedKernel.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.6.0" />
+    <PackageReference Include="FluentResults" Version="3.12.0" />
+    <PackageReference Include="Mapster" Version="10.0.0" />
+    <PackageReference Include="MediatR" Version="12.0.1" />
+  </ItemGroup>
+
+</Project>

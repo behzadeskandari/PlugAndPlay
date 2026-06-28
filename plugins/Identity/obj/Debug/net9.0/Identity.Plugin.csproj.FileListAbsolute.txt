@@ -1,0 +1,15 @@
+D:\BehzadRepo\PlugAndPlay\plugins\Identity\obj\Debug\net9.0\Identity.Plugin.GeneratedMSBuildEditorConfig.editorconfig
+D:\BehzadRepo\PlugAndPlay\plugins\Identity\obj\Debug\net9.0\Identity.Plugin.AssemblyInfoInputs.cache
+D:\BehzadRepo\PlugAndPlay\plugins\Identity\obj\Debug\net9.0\Identity.Plugin.AssemblyInfo.cs
+D:\BehzadRepo\PlugAndPlay\plugins\Identity\obj\Debug\net9.0\Identity.Plugin.csproj.CoreCompileInputs.cache
+D:\BehzadRepo\PlugAndPlay\plugins\Identity\obj\Debug\net9.0\Identity.Plugin.csproj.AssemblyReference.cache
+D:\BehzadRepo\PlugAndPlay\plugins\Identity\bin\Debug\net9.0\Identity.Plugin.deps.json
+D:\BehzadRepo\PlugAndPlay\plugins\Identity\bin\Debug\net9.0\Identity.Plugin.dll
+D:\BehzadRepo\PlugAndPlay\plugins\Identity\bin\Debug\net9.0\Identity.Plugin.pdb
+D:\BehzadRepo\PlugAndPlay\plugins\Identity\bin\Debug\net9.0\Framework.Abstractions.dll
+D:\BehzadRepo\PlugAndPlay\plugins\Identity\bin\Debug\net9.0\Framework.Abstractions.pdb
+D:\BehzadRepo\PlugAndPlay\plugins\Identity\obj\Debug\net9.0\Identity.C0C2DB50.Up2Date
+D:\BehzadRepo\PlugAndPlay\plugins\Identity\obj\Debug\net9.0\Identity.Plugin.dll
+D:\BehzadRepo\PlugAndPlay\plugins\Identity\obj\Debug\net9.0\refint\Identity.Plugin.dll
+D:\BehzadRepo\PlugAndPlay\plugins\Identity\obj\Debug\net9.0\Identity.Plugin.pdb
+D:\BehzadRepo\PlugAndPlay\plugins\Identity\obj\Debug\net9.0\ref\Identity.Plugin.dll

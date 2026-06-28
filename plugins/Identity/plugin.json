@@ -1,0 +1,10 @@
+{
+  "Id": "Identity",
+  "Name": "Identity",
+  "Version": "1.0.0",
+  "Author": "Behzad",
+  "Assembly": "Identity.Plugin.dll",
+  "Dependencies": [],
+  "MinimumHostVersion": "1.0",
+  "Description": "Identity Module"
+}

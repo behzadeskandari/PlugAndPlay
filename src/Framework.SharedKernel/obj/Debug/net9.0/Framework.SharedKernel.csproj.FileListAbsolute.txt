@@ -1,0 +1,11 @@
+D:\BehzadRepo\PlugAndPlay\src\Framework.SharedKernel\bin\Debug\net9.0\Framework.SharedKernel.deps.json
+D:\BehzadRepo\PlugAndPlay\src\Framework.SharedKernel\bin\Debug\net9.0\Framework.SharedKernel.dll
+D:\BehzadRepo\PlugAndPlay\src\Framework.SharedKernel\bin\Debug\net9.0\Framework.SharedKernel.pdb
+D:\BehzadRepo\PlugAndPlay\src\Framework.SharedKernel\obj\Debug\net9.0\Framework.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+D:\BehzadRepo\PlugAndPlay\src\Framework.SharedKernel\obj\Debug\net9.0\Framework.SharedKernel.AssemblyInfoInputs.cache
+D:\BehzadRepo\PlugAndPlay\src\Framework.SharedKernel\obj\Debug\net9.0\Framework.SharedKernel.AssemblyInfo.cs
+D:\BehzadRepo\PlugAndPlay\src\Framework.SharedKernel\obj\Debug\net9.0\Framework.SharedKernel.csproj.CoreCompileInputs.cache
+D:\BehzadRepo\PlugAndPlay\src\Framework.SharedKernel\obj\Debug\net9.0\Framework.SharedKernel.dll
+D:\BehzadRepo\PlugAndPlay\src\Framework.SharedKernel\obj\Debug\net9.0\refint\Framework.SharedKernel.dll
+D:\BehzadRepo\PlugAndPlay\src\Framework.SharedKernel\obj\Debug\net9.0\Framework.SharedKernel.pdb
+D:\BehzadRepo\PlugAndPlay\src\Framework.SharedKernel\obj\Debug\net9.0\ref\Framework.SharedKernel.dll
