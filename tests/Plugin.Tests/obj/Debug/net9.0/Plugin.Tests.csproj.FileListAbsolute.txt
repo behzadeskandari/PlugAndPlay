@@ -96,3 +96,4 @@ D:\BehzadRepo\PlugAndPlay\tests\Plugin.Tests\obj\Debug\net9.0\refint\Plugin.Test
 D:\BehzadRepo\PlugAndPlay\tests\Plugin.Tests\obj\Debug\net9.0\Plugin.Tests.pdb
 D:\BehzadRepo\PlugAndPlay\tests\Plugin.Tests\obj\Debug\net9.0\Plugin.Tests.genruntimeconfig.cache
 D:\BehzadRepo\PlugAndPlay\tests\Plugin.Tests\obj\Debug\net9.0\ref\Plugin.Tests.dll
+D:\BehzadRepo\PlugAndPlay\tests\Plugin.Tests\obj\Debug\net9.0\Plugin.Tests.sourcelink.json

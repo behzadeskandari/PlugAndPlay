@@ -13,3 +13,4 @@ D:\BehzadRepo\PlugAndPlay\plugins\Identity\obj\Debug\net9.0\Identity.Plugin.dll
 D:\BehzadRepo\PlugAndPlay\plugins\Identity\obj\Debug\net9.0\refint\Identity.Plugin.dll
 D:\BehzadRepo\PlugAndPlay\plugins\Identity\obj\Debug\net9.0\Identity.Plugin.pdb
 D:\BehzadRepo\PlugAndPlay\plugins\Identity\obj\Debug\net9.0\ref\Identity.Plugin.dll
+D:\BehzadRepo\PlugAndPlay\plugins\Identity\obj\Debug\net9.0\Identity.Plugin.sourcelink.json

@@ -15,3 +15,4 @@ D:\BehzadRepo\PlugAndPlay\src\Framework.Core\obj\Debug\net9.0\Framework.Core.dll
 D:\BehzadRepo\PlugAndPlay\src\Framework.Core\obj\Debug\net9.0\refint\Framework.Core.dll
 D:\BehzadRepo\PlugAndPlay\src\Framework.Core\obj\Debug\net9.0\Framework.Core.pdb
 D:\BehzadRepo\PlugAndPlay\src\Framework.Core\obj\Debug\net9.0\ref\Framework.Core.dll
+D:\BehzadRepo\PlugAndPlay\src\Framework.Core\obj\Debug\net9.0\Framework.Core.sourcelink.json

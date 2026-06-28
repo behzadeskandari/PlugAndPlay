@@ -13,3 +13,4 @@ D:\BehzadRepo\PlugAndPlay\src\Framework.PluginLoader\obj\Debug\net9.0\Framework.
 D:\BehzadRepo\PlugAndPlay\src\Framework.PluginLoader\obj\Debug\net9.0\refint\Framework.PluginLoader.dll
 D:\BehzadRepo\PlugAndPlay\src\Framework.PluginLoader\obj\Debug\net9.0\Framework.PluginLoader.pdb
 D:\BehzadRepo\PlugAndPlay\src\Framework.PluginLoader\obj\Debug\net9.0\ref\Framework.PluginLoader.dll
+D:\BehzadRepo\PlugAndPlay\src\Framework.PluginLoader\obj\Debug\net9.0\Framework.PluginLoader.sourcelink.json

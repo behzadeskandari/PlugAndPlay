@@ -29,3 +29,4 @@ D:\BehzadRepo\PlugAndPlay\src\Framework.Infrastructure\obj\Debug\net9.0\Framewor
 D:\BehzadRepo\PlugAndPlay\src\Framework.Infrastructure\obj\Debug\net9.0\refint\Framework.Infrastructure.dll
 D:\BehzadRepo\PlugAndPlay\src\Framework.Infrastructure\obj\Debug\net9.0\Framework.Infrastructure.pdb
 D:\BehzadRepo\PlugAndPlay\src\Framework.Infrastructure\obj\Debug\net9.0\ref\Framework.Infrastructure.dll
+D:\BehzadRepo\PlugAndPlay\src\Framework.Infrastructure\obj\Debug\net9.0\Framework.Infrastructure.sourcelink.json

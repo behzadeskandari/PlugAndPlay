@@ -9,3 +9,4 @@ D:\BehzadRepo\PlugAndPlay\src\Framework.Persistence\obj\Debug\net9.0\Framework.P
 D:\BehzadRepo\PlugAndPlay\src\Framework.Persistence\obj\Debug\net9.0\refint\Framework.Persistence.dll
 D:\BehzadRepo\PlugAndPlay\src\Framework.Persistence\obj\Debug\net9.0\Framework.Persistence.pdb
 D:\BehzadRepo\PlugAndPlay\src\Framework.Persistence\obj\Debug\net9.0\ref\Framework.Persistence.dll
+D:\BehzadRepo\PlugAndPlay\src\Framework.Persistence\obj\Debug\net9.0\Framework.Persistence.sourcelink.json

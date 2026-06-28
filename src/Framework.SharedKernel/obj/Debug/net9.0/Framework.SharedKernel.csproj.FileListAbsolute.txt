@@ -9,3 +9,4 @@ D:\BehzadRepo\PlugAndPlay\src\Framework.SharedKernel\obj\Debug\net9.0\Framework.
 D:\BehzadRepo\PlugAndPlay\src\Framework.SharedKernel\obj\Debug\net9.0\refint\Framework.SharedKernel.dll
 D:\BehzadRepo\PlugAndPlay\src\Framework.SharedKernel\obj\Debug\net9.0\Framework.SharedKernel.pdb
 D:\BehzadRepo\PlugAndPlay\src\Framework.SharedKernel\obj\Debug\net9.0\ref\Framework.SharedKernel.dll
+D:\BehzadRepo\PlugAndPlay\src\Framework.SharedKernel\obj\Debug\net9.0\Framework.SharedKernel.sourcelink.json

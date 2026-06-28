@@ -98,3 +98,5 @@ D:\BehzadRepo\PlugAndPlay\src\Host.Api\obj\Debug\net9.0\refint\Host.Api.dll
 D:\BehzadRepo\PlugAndPlay\src\Host.Api\obj\Debug\net9.0\Host.Api.pdb
 D:\BehzadRepo\PlugAndPlay\src\Host.Api\obj\Debug\net9.0\Host.Api.genruntimeconfig.cache
 D:\BehzadRepo\PlugAndPlay\src\Host.Api\obj\Debug\net9.0\ref\Host.Api.dll
+D:\BehzadRepo\PlugAndPlay\src\Host.Api\obj\Debug\net9.0\Host.Api.sourcelink.json
+D:\BehzadRepo\PlugAndPlay\src\Host.Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

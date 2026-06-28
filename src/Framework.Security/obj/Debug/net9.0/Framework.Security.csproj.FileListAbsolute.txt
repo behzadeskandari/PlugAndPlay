@@ -9,3 +9,4 @@ D:\BehzadRepo\PlugAndPlay\src\Framework.Security\obj\Debug\net9.0\Framework.Secu
 D:\BehzadRepo\PlugAndPlay\src\Framework.Security\obj\Debug\net9.0\refint\Framework.Security.dll
 D:\BehzadRepo\PlugAndPlay\src\Framework.Security\obj\Debug\net9.0\Framework.Security.pdb
 D:\BehzadRepo\PlugAndPlay\src\Framework.Security\obj\Debug\net9.0\ref\Framework.Security.dll
+D:\BehzadRepo\PlugAndPlay\src\Framework.Security\obj\Debug\net9.0\Framework.Security.sourcelink.json

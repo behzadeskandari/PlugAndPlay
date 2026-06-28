@@ -35,9 +35,6 @@
         }
       },
       "FluentResults/3.12.0": {
-        "dependencies": {
-          "Microsoft.Extensions.Logging.Abstractions": "10.0.5"
-        },
         "runtime": {
           "lib/netstandard2.1/FluentResults.dll": {
             "assemblyVersion": "3.12.0.0",
@@ -67,8 +64,7 @@
       },
       "FluentValidation.DependencyInjectionExtensions/11.11.0": {
         "dependencies": {
-          "FluentValidation": "11.11.0",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "10.0.5"
+          "FluentValidation": "11.11.0"
         },
         "runtime": {
           "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {
@@ -98,8 +94,7 @@
       },
       "MediatR/12.0.1": {
         "dependencies": {
-          "MediatR.Contracts": "2.0.1",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "10.0.5"
+          "MediatR.Contracts": "2.0.1"
         },
         "runtime": {
           "lib/net6.0/MediatR.dll": {
@@ -140,7 +135,6 @@
       },
       "Microsoft.Extensions.Caching.StackExchangeRedis/9.0.0": {
         "dependencies": {
-          "Microsoft.Extensions.Logging.Abstractions": "10.0.5",
           "StackExchange.Redis": "3.0.0"
         },
         "runtime": {
@@ -274,7 +268,6 @@
       },
       "OpenTelemetry.Api.ProviderBuilderExtensions/1.15.0": {
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "10.0.5",
           "OpenTelemetry.Api": "1.15.0"
         },
         "runtime": {
@@ -327,7 +320,6 @@
       },
       "Scrutor/4.0.0": {
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "10.0.5",
           "Microsoft.Extensions.DependencyModel": "7.0.0"
         },
         "runtime": {
@@ -375,8 +367,6 @@
       },
       "Serilog.Extensions.Hosting/7.0.0": {
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "10.0.5",
-          "Microsoft.Extensions.Logging.Abstractions": "10.0.5",
           "Serilog": "4.0.0",
           "Serilog.Extensions.Logging": "7.0.0"
         },
@@ -568,8 +558,7 @@
       },
       "Framework.Abstractions/1.0.0": {
         "dependencies": {
-          "FluentResults": "3.12.0",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "10.0.5"
+          "FluentResults": "3.12.0"
         },
         "runtime": {
           "Framework.Abstractions.dll": {

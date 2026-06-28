@@ -9,3 +9,4 @@ D:\BehzadRepo\PlugAndPlay\src\Framework.EventBus\obj\Debug\net9.0\Framework.Even
 D:\BehzadRepo\PlugAndPlay\src\Framework.EventBus\obj\Debug\net9.0\refint\Framework.EventBus.dll
 D:\BehzadRepo\PlugAndPlay\src\Framework.EventBus\obj\Debug\net9.0\Framework.EventBus.pdb
 D:\BehzadRepo\PlugAndPlay\src\Framework.EventBus\obj\Debug\net9.0\ref\Framework.EventBus.dll
+D:\BehzadRepo\PlugAndPlay\src\Framework.EventBus\obj\Debug\net9.0\Framework.EventBus.sourcelink.json

@@ -10,3 +10,4 @@ D:\BehzadRepo\PlugAndPlay\src\Framework.Abstractions\obj\Debug\net9.0\Framework.
 D:\BehzadRepo\PlugAndPlay\src\Framework.Abstractions\obj\Debug\net9.0\refint\Framework.Abstractions.dll
 D:\BehzadRepo\PlugAndPlay\src\Framework.Abstractions\obj\Debug\net9.0\Framework.Abstractions.pdb
 D:\BehzadRepo\PlugAndPlay\src\Framework.Abstractions\obj\Debug\net9.0\ref\Framework.Abstractions.dll
+D:\BehzadRepo\PlugAndPlay\src\Framework.Abstractions\obj\Debug\net9.0\Framework.Abstractions.sourcelink.json

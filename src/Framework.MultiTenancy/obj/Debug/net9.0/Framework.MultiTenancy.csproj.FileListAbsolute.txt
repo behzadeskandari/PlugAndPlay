@@ -9,3 +9,4 @@ D:\BehzadRepo\PlugAndPlay\src\Framework.MultiTenancy\obj\Debug\net9.0\Framework.
 D:\BehzadRepo\PlugAndPlay\src\Framework.MultiTenancy\obj\Debug\net9.0\refint\Framework.MultiTenancy.dll
 D:\BehzadRepo\PlugAndPlay\src\Framework.MultiTenancy\obj\Debug\net9.0\Framework.MultiTenancy.pdb
 D:\BehzadRepo\PlugAndPlay\src\Framework.MultiTenancy\obj\Debug\net9.0\ref\Framework.MultiTenancy.dll
+D:\BehzadRepo\PlugAndPlay\src\Framework.MultiTenancy\obj\Debug\net9.0\Framework.MultiTenancy.sourcelink.json
