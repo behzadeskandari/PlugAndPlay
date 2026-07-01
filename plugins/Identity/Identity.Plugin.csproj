@@ -8,6 +8,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\src\Framework.Abstractions\Framework.Abstractions.csproj" />
+    <ProjectReference Include="..\..\src\Framework.Application\Framework.Application.csproj" />
+    <ProjectReference Include="..\..\src\Framework.SharedKernel\Framework.SharedKernel.csproj" />
   </ItemGroup>
 
 </Project>

@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Framework.Abstractions\Framework.Abstractions.csproj" />
+    <ProjectReference Include="..\Framework.Application\Framework.Application.csproj" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="FluentResults" Version="3.12.0" />

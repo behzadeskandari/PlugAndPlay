@@ -1,15 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "kJP/usQYAyg=",
-  "success": true,
+  "dgSpecHash": "MAVAwzlscXA=",
+  "success": false,
   "projectFilePath": "D:\\BehzadRepo\\PlugAndPlay\\src\\Framework.Infrastructure\\Framework.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\105624033\\.nuget\\packages\\fluentresults\\3.12.0\\fluentresults.3.12.0.nupkg.sha512",
     "C:\\Users\\105624033\\.nuget\\packages\\fluentvalidation\\11.6.0\\fluentvalidation.11.6.0.nupkg.sha512",
+    "C:\\Users\\105624033\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.6.0\\fluentvalidation.dependencyinjectionextensions.11.6.0.nupkg.sha512",
     "C:\\Users\\105624033\\.nuget\\packages\\mapster\\10.0.0\\mapster.10.0.0.nupkg.sha512",
     "C:\\Users\\105624033\\.nuget\\packages\\mapster.core\\10.0.0\\mapster.core.10.0.0.nupkg.sha512",
-    "C:\\Users\\105624033\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
-    "C:\\Users\\105624033\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\105624033\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\105624033\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\105624033\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "C:\\Users\\105624033\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\9.0.0\\microsoft.aspnetcore.authentication.jwtbearer.9.0.0.nupkg.sha512",
     "C:\\Users\\105624033\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.0\\microsoft.aspnetcore.authorization.9.0.0.nupkg.sha512",
     "C:\\Users\\105624033\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.2\\microsoft.aspnetcore.http.2.2.2.nupkg.sha512",
@@ -77,5 +79,17 @@
     "C:\\Users\\105624033\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.16\\microsoft.windowsdesktop.app.ref.9.0.16.nupkg.sha512",
     "C:\\Users\\105624033\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.16\\microsoft.aspnetcore.app.ref.9.0.16.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Warning As Error: Detected package downgrade: Scrutor from 6.0.0 to 4.0.0. Reference the package directly from the project to select a different version. \r\n Framework.Infrastructure -> Framework.Application -> Scrutor (>= 6.0.0) \r\n Framework.Infrastructure -> Scrutor (>= 4.0.0)",
+      "projectPath": "D:\\BehzadRepo\\PlugAndPlay\\src\\Framework.Infrastructure\\Framework.Infrastructure.csproj",
+      "filePath": "D:\\BehzadRepo\\PlugAndPlay\\src\\Framework.Infrastructure\\Framework.Infrastructure.csproj",
+      "libraryId": "Scrutor",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
 }

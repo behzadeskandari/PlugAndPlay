@@ -1,5 +1,8 @@
+using FluentResults;
+using MediatR;
+
 namespace Framework.Application.Requests;
 
-public interface ICommand<TResponse> : MediatR.IRequest<FluentResults.Result<TResponse>>
+public interface ICommand<TResponse> : IRequest<Result<TResponse>>
 {
 }

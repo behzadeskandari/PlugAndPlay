@@ -1,3 +1,4 @@
+using Framework.Application;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Routing;
 
@@ -11,6 +12,8 @@ public static class PluginExtensions
             .Where(type => typeof(IPluginStartup).IsAssignableFrom(type) && !type.IsAbstract && !type.IsInterface)
             .Select(type => (IPluginStartup)Activator.CreateInstance(type)!)
             .ToArray();
+
+        services.AddApplicationLayer(pluginContext.PluginAssembly);
 
         foreach (var startup in startupImplementations)
         {
